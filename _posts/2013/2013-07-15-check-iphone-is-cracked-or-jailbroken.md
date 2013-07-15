@@ -1,11 +1,10 @@
 ---
-layout:post
-title:ios检测设备是否越狱和应用是否被破解
+layout: post
+title: ios检测设备是否越狱和应用是否被破解
 categories:
 - ios开发
 tags:
 - iOS
-
 ---
 
 
